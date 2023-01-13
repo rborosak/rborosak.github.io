@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://rborosak.github.io/App1 (Package).appinstaller"
-	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="cbb0a8db-813f-4b1d-86d3-19588b513fd7"
-		Version="1.0.6.0"
+		Version="1.0.7.0"
 		Publisher="CN=Rathmann d.o.o, O=Rathmann d.o.o, S=Dubrovačko-neretvanska županija, C=HR"
-		Uri="https://rborosak.github.io/App1 (Package)_1.0.6.0_Test/App1 (Package)_1.0.6.0_x64.msixbundle" />
+		Uri="https://rborosak.github.io/App1 (Package)_1.0.7.0_Test/App1 (Package)_1.0.7.0_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.2"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://rborosak.github.io/App1 (Package)_1.0.6.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.2.msix"
+			Uri="https://rborosak.github.io/App1 (Package)_1.0.7.0_Test/Dependencies/x64/Microsoft.WindowsAppRuntime.1.2.msix"
 			Version="2000.677.1750.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://rborosak.github.io/App1 (Package)_1.0.6.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
+			Uri="https://rborosak.github.io/App1 (Package)_1.0.7.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
 			Version="14.0.30704.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00.UWPDesktop"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://rborosak.github.io/App1 (Package)_1.0.6.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
+			Uri="https://rborosak.github.io/App1 (Package)_1.0.7.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.Desktop.appx"
 			Version="14.0.30704.0" />
 	</Dependencies>
 	<UpdateSettings>
