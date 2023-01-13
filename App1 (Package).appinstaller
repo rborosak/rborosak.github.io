@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://rborosak.github.io/App1 (Package).appinstaller"
-	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainBundle
 		Name="cbb0a8db-813f-4b1d-86d3-19588b513fd7"
 		Version="1.0.2.0"
@@ -29,6 +29,6 @@
 	</Dependencies>
 	<UpdateSettings>
 		<OnLaunch
-			HoursBetweenUpdateChecks="0" />
+			HoursBetweenUpdateChecks="0" ShowPrompt="false" UpdateBlocksActivation="true" />
 	</UpdateSettings>
 </AppInstaller>
